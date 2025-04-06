@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
+## About Me 🎓
+- 📚 Computer Science Student at Beijing University of Posts and Telecommunications (BUPT)
+- 🌱 Currently learning Computer Science fundamentals
+- 💡 Passionate about AI and Software Development
 <!--
 **cs2022211020/cs2022211020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
